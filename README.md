@@ -65,6 +65,9 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 <img width="1372" height="560" alt="image" src="https://github.com/user-attachments/assets/72203373-d60e-4e34-aac9-fa817f995a13" />
 <img width="1386" height="557" alt="image" src="https://github.com/user-attachments/assets/48311415-9ec1-41a3-9482-9d98fb3b3afa" />
 <img width="1440" height="613" alt="image" src="https://github.com/user-attachments/assets/c322be5f-e5a8-41e1-97ef-7b2dd17d9d65" />
+<img width="1360" height="552" alt="image" src="https://github.com/user-attachments/assets/01957805-8a2a-44f1-8ff8-669c8d84c61c" />
+<img width="1425" height="560" alt="image" src="https://github.com/user-attachments/assets/67a61865-a33b-4c59-9edc-511b3d8980bc" />
+<img width="1417" height="552" alt="image" src="https://github.com/user-attachments/assets/b7693de3-5720-4fd6-a95f-f969c58488f5" />
 <img width="1497" height="480" alt="image" src="https://github.com/user-attachments/assets/2c3ac7da-1167-4ecd-a69e-4203782af9dc" />
 <img width="1430" height="515" alt="image" src="https://github.com/user-attachments/assets/6efbe43f-4175-4e91-8a54-ea35c21dbc16" />
 
